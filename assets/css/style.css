@@ -692,31 +692,6 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     box-shadow: 0 10px 20px rgba(21,19,19,.4);
 }
 
-/*-------------------------------------
-        11. About
---------------------------------------*/
-.content-wrapper {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap; /* Ensures proper layout on smaller screens */
-    gap: 20px; /* Adds space between the elements */
-}
-
-.single-explore-img {
-    flex: 1; /* Allows it to take up available space */
-    max-width: 45%; /* Ensures it doesn't get too wide */
-}
-
-.video_container {
-    flex: 1; /* Allows it to take up available space */
-    max-width: 45%; /* Ensures it doesn't get too wide */
-}
-
-.video_container iframe {
-    width: 100%; /* Makes the iframe responsive */
-    height: auto; /* Adjusts height to maintain aspect ratio */
-}
 
 
 
